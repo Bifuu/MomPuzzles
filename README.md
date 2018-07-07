@@ -13,5 +13,5 @@ Downloads
 
 Screenshots
 
-!(Main Screen)[https://i.imgur.com/eyETCt5.png]
-!(Puzzle Screen)[https://i.imgur.com/FUKIroI.png]
+![Main Screen](https://i.imgur.com/eyETCt5.png)
+![Puzzle Screen](https://i.imgur.com/FUKIroI.png)
